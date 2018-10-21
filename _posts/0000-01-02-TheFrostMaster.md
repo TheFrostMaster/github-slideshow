@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Da wei
+What doesn't kill thou makes you stronger
 Use the left arrow to go back!
